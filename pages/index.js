@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import posts from '../postdata.json'
-import { Container, Section } from 'react-bulma-components'
+import { Container } from 'react-bulma-components'
 import PostDisplay from '../components/PostDisplay'
 import ButtonSwitch from '../components/ButtonSwitch'
 
